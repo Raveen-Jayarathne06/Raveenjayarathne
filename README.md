@@ -58,18 +58,18 @@
 ## Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/raveen-jayarathne-74a78b219/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/yohan_awishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yohanawishka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/RaveenJayara"_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/ravi.frnando/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
-<a href = "https://www.youtube.com/channel/UCJySLVr5-5fPVvaMg9h3BEg" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
-<a href = "https://www.behance.net/b76d6c19" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
-<a href = "https://dribbble.com/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
+<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
+<a href = ""_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
+<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
 <a href = "https://github.com/IT20146610" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=yohanawi"> </a>
-<a href="https://github.com/yohanawi?tab=followers"><img src="https://img.shields.io/github/followers/yohanawi?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href=""> <img src=""> </a>
+<a href=""><img src="https://www.linkedin.com/in/raveen-jayarathne-74a78b219/"GitHub Badge"></a>
 <!---
 yohanawi/yohanawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
