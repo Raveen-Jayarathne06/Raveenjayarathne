@@ -69,7 +69,7 @@
 
 ## ❤ Views and Followers
 <a href=""> <img src=""> </a>
-<a href=""><img src="https://www.linkedin.com/in/raveen-jayarathne-74a78b219/"GitHub Badge"></a>
+<a href=""><img src=""GitHub Badge"></a>
 <!---
 yohanawi/yohanawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
